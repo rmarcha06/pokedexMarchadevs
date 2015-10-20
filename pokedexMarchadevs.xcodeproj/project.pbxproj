@@ -12,6 +12,7 @@
 		0ACAA8031BD6D15E00334443 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0ACAA8011BD6D15E00334443 /* Main.storyboard */; };
 		0ACAA8051BD6D15E00334443 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0ACAA8041BD6D15E00334443 /* Assets.xcassets */; };
 		0ACAA8081BD6D15E00334443 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0ACAA8061BD6D15E00334443 /* LaunchScreen.storyboard */; };
+		0ACAA8101BD6D3F500334443 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 0ACAA80F1BD6D3F500334443 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0ACAA8041BD6D15E00334443 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0ACAA8071BD6D15E00334443 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0ACAA8091BD6D15E00334443 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0ACAA80F1BD6D3F500334443 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		0ACAA7FC1BD6D15E00334443 /* pokedexMarchadevs */ = {
 			isa = PBXGroup;
 			children = (
+				0ACAA80F1BD6D3F500334443 /* pokemon.csv */,
 				0ACAA7FD1BD6D15E00334443 /* AppDelegate.swift */,
 				0ACAA7FF1BD6D15E00334443 /* ViewController.swift */,
 				0ACAA8011BD6D15E00334443 /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			files = (
 				0ACAA8081BD6D15E00334443 /* LaunchScreen.storyboard in Resources */,
 				0ACAA8051BD6D15E00334443 /* Assets.xcassets in Resources */,
+				0ACAA8101BD6D3F500334443 /* pokemon.csv in Resources */,
 				0ACAA8031BD6D15E00334443 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
